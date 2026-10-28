@@ -1,0 +1,6 @@
+{
+  "name": "Placement Tracker",
+  "description": "A clean, modern placement tracking portal with student and placement officer modes, responsive dashboard cards, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
